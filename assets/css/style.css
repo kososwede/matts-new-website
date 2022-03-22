@@ -53,7 +53,7 @@ header {
       rgba(233, 221, 221, 0.705),
       rgba(247, 242, 242, 0.486)
     ),
-    url("/images/background-matt-new.jpg");
+    url("/assets/images/background-matt-new.jpg");
   background-size: cover;
 }
 
@@ -166,7 +166,7 @@ header {
       rgba(233, 221, 221, 0.705),
       rgba(247, 242, 242, 0.486)
     ),
-    url("/images/gardening-pic.png");
+    url("/assets/images/gardening-pic.png");
   background-size: cover;
   background-attachment: fixed;
 }
@@ -288,7 +288,7 @@ img {
       rgba(233, 221, 221, 0.705),
       rgba(247, 242, 242, 0.486)
     ),
-    url(/images/testi-background.jpg);
+    url(/assets/images/testi-background.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
