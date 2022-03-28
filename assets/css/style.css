@@ -53,7 +53,7 @@ header {
       rgba(233, 221, 221, 0.705),
       rgba(247, 242, 242, 0.486)
     ),
-    url("/assets/images/background-matt-new.jpg");
+    url("../images/background-matt-new.jpg");
   background-size: cover;
 }
 
