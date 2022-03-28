@@ -288,7 +288,7 @@ img {
       rgba(233, 221, 221, 0.705),
       rgba(247, 242, 242, 0.486)
     ),
-    url(../images/testi-background.jpg);
+    url("../images/testi-background.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
