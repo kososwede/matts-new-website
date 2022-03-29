@@ -55,6 +55,7 @@ header {
     ),
     url("../images/background-matt-new.jpg");
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .landing-page-logo {
