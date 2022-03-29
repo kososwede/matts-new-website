@@ -328,6 +328,10 @@ em {
   .container {
     text-align: center;
   }
+  .row {
+    margin-left: 15%;
+    margin-right: 15%;
+  }
 }
 
 .fa-quote-left {
