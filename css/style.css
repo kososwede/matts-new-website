@@ -118,6 +118,7 @@ header {
 .contact-section {
   text-align: center;
   padding-top: 5%;
+  padding-bottom: 5%;
 }
 .heading {
   font-size: 250%;
@@ -344,10 +345,72 @@ em {
 
 /* contact */
 
-.bottom-grass {
+.contact-section {
+  background-image: linear-gradient(
+      rgba(233, 221, 221, 0.705),
+      rgba(247, 242, 242, 0.486)
+    ),
+    url("../images/grass-cloud.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  padding: 3%;
+}
+
+.contact-section h1 {
+  margin-bottom: 5%;
+}
+
+.matt-img-holder {
+  width: 30%;
+  height: 30%;
+  overflow: hidden;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+.img-of-matt {
   width: 100%;
 }
 
+.about-text-holder {
+  position: relative;
+  padding: 10%;
+  text-align: center;
+  background-color: #e9e3e3;
+  border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+}
+
+.about-text-holder p {
+  text-align: left;
+}
+
+.fa-at {
+  color: rgb(24, 86, 179);
+}
+
+.fa-phone {
+  color: rgb(3, 109, 26);
+}
+
+.fa-at,
+.fa-phone {
+  font-size: 30px;
+  border: none;
+  text-decoration: none;
+  display: inline;
+  margin: 25px;
+  position: absolute;
+}
+
+a {
+  text-decoration: none;
+}
 /* FOOTER */
 
 footer {
